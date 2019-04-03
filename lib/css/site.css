@@ -114,6 +114,17 @@ section{
 
 }
 
+.caption-wrapper{
+	position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    /*box-shadow: 1px 1px 1px white;*/
+    background-color: #ffffff96;
+    border-radius: 5px;
+}
+
 .jambotron{
 	position: relative;
 	display: flex;
